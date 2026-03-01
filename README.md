@@ -1,6 +1,9 @@
 # Push-Button Morse Code Generator
 
 ## Project Description
+A system bulit using ARDUINO UNO where:
+
+SHORT PRESS - generates a DOT (.) (short LED flash + short buzzer sound )
 
 
 ## Components Used
