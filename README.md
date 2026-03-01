@@ -20,7 +20,7 @@ LONG PRESS - generates a DASH (-) (long LED flash + long buzzer sound)
 ## How It Works
 SHORT PRESS of the button generates a DOT (.) (short LED flash + short buzzer sound )
 
-LONG PRESS - generates a DASH (-) (long LED flash + long buzzer sound)
+LONG PRESS of the button generates a DASH (-) (long LED flash + long buzzer sound)
 
 ## Author
 Alhassan Mohammed Khidir
