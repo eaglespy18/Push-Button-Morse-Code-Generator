@@ -5,6 +5,8 @@ A system bulit using ARDUINO UNO where:
 
 SHORT PRESS - generates a DOT (.) (short LED flash + short buzzer sound )
 
+LONG PRESS - generates a DASH (-) (long LED flash + long buzzer sound)
+
 
 ## Components Used
 - Arduino UNO
