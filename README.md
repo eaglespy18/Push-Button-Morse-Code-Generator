@@ -1,7 +1,7 @@
-# Automatic Water Level Controller
+# Push-Button Morse Code Generator
 
 ## Project Description
-This project monitors water levels (Low, Medium, High) using a water sensor and Arduino UNO.
+
 
 ## Components Used
 - Arduino UNO
