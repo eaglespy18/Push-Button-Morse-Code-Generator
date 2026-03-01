@@ -10,9 +10,10 @@ LONG PRESS - generates a DASH (-) (long LED flash + long buzzer sound)
 
 ## Components Used
 - Arduino UNO
-- Water Level Sensor
-- 3 LEDs (Red, Yellow, Green)
-- 3 × 220Ω resistors
+- Push Button
+- 10kΩ Resistor (PULL-DOWN)
+- 220Ω Resistors (for LED protection)
+- LED
 - Piezo Buzzer
 - Breadboard and jumper wires
 
